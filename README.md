@@ -19,7 +19,7 @@ Check out the [demo](https://drive.google.com/file/d/1jR3-dGKhwcZsNaWtf_TamlhC6J
 
 The `mAgent2` agent was evaluated on multiple tasks with the following results:
 
-| Task        | Success | Total |
+| Task Type   | Success | Total |
 |-------------|---------|-------|
 | Dashdish    | 9       | 11    |
 | Fly-unified | 9       | 14    |
