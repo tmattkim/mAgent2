@@ -1,6 +1,8 @@
 # mAgent2 – AGI SDK Agent
 
-This repository contains `mAgent2.py`, a custom agent designed to run with the [AGI SDK](https://github.com/agi-inc/agi-sdk). On the web agent eval benchmark [REAL v1](https://realevals.xyz/), mAgent2 scores first on all three leaderboards. mAgent2 was designed before the release of REAL v2.
+This repository contains `mAgent2.py`, a custom agent designed to run with the [AGI SDK](https://github.com/agi-inc/agi-sdk).
+
+On the web agent eval benchmark [REAL v1](https://realevals.xyz/), mAgent2 scores first on all three leaderboards. mAgent2 was designed before the release of REAL v2.
 
 ## 🚀 Prerequisites
 Before using this agent, make sure you have:
